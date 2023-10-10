@@ -1,3 +1,2 @@
 # Password-generator
-This is a password generator made in python
-Made by BohBohMah
+This is a password generator made in python by BohBohMah
