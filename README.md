@@ -120,35 +120,27 @@ I's simple to set it up
 ### Prerequisites
 
 This python code uses just standard libraries, it means that to run it, you only need to have python installed
-Visiting 'https://www.python.org/downloads/'
-Or through microsoft store if you are using windows
 
+
+### Installation
+
+_Below there is a tutorial on how you can use the python password generator._
+
+1 You have to download python:
+Visit 'https://www.python.org/downloads/'
+
+Or through microsoft store if you are using windows
 <a href="https://apps.microsoft.com/detail/Python%203.12/9NCVDN91XZQP?launch=true
 	&mode=full">
 	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
 </a>
 
 If you are using debian linux you can install it using 
-```sudo apt update && sudo apt upgrade
+
+```sh
+sudo apt update && sudo apt upgrade
   ```
-
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+Then you can execute the file, but if you want to integrate it on your project you can using a s
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
